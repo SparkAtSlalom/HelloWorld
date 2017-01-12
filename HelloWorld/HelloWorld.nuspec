@@ -12,8 +12,8 @@
   </metadata>
   <files>
     <file src="bin\*.*" target="lib\net20" />
-    <file src="*.html" target="Content" />
-    <file src="web.config" target="Content" />
-    <file src="packages.config" target="Content" />
+    <file src="*.html" target="\" />
+    <file src="web.config" target="\" />
+    <file src="packages.config" target="\" />
   </files>
 </package>
