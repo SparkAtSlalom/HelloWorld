@@ -7,11 +7,12 @@
     <description>Hello World app</description>
     <authors>Slalom</authors>
 
-    <!-- Optional elements -->    
-    <!-- ... -->    
+    <!-- Optional elements -->
+
   </metadata>
   <files>
     <file src="bin\*.*" target="lib\net20" />
-    <file src="\*.*" target="contentFiles" />
+    <file src="\*.html" target="Content" />
+    <file src="\*.config" target="Content" />
   </files>
 </package>
