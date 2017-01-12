@@ -14,6 +14,6 @@
     <file src="bin\*.*" target="lib\net20" />
     <file src="*.html" target="Content" />
     <file src="web.config" target="Content" />
-    <file src="package.config" target="Content" />
+    <file src="packages.config" target="Content" />
   </files>
 </package>
